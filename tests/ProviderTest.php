@@ -29,5 +29,4 @@ it('it load component', function () {
     expect(Blade::render('<x-forms.buttons.primary url="/foo" label="bar"></x-forms.buttons.primary>'))->toBeString();
 
     expect(Blade::render('<x-forms.buttons.secondary url="/foo" label="bar"></x-forms.buttons.secondary>'))->toBeString();
-
 });

@@ -2,8 +2,8 @@
 
 namespace Lobotomised\LaravelTailwindForm\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Lobotomised\LaravelTailwindForm\LaravelTailwindFormServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

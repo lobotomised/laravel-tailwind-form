@@ -6,7 +6,6 @@ use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 use Lobotomised\LaravelTailwindForm\Forms\Buttons\Delete;
 use Lobotomised\LaravelTailwindForm\Forms\Buttons\DeleteSmall;
-use Lobotomised\LaravelTailwindForm\Forms\Buttons\EditSmall;
 use Lobotomised\LaravelTailwindForm\Forms\Buttons\Primary;
 use Lobotomised\LaravelTailwindForm\Forms\Buttons\Secondary;
 use Lobotomised\LaravelTailwindForm\Forms\CheckboxField;
